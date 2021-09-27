@@ -1,0 +1,22 @@
+keywords = {
+    "var",
+    "and",
+    "or",
+    "not",
+    "true",
+    "false",
+    "null",
+    "if",
+    "then",
+    "elif",
+    "else",
+    "for",
+    "to",
+    "step",
+    "while",
+    "function",
+    "end",
+    "return",
+    "continue",
+    "break"
+}

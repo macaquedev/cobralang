@@ -1,0 +1,15 @@
+var i = 5
+if i == 10 {
+    print(i)
+}
+elif i == 7 {
+    print("YEET"
+}
+for j = 10 to 30 step 2 {
+    print(j)
+}
+
+while j >= 0 {
+    print(j)
+    var j = j - 1
+}
